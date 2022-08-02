@@ -28,7 +28,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "62c72a34eb859112167b9949:categories:Cereais e farináceos:/cereais-e-farinaceos",
+      "title": "Cereais"
     },
     {
       "type": "collection-shelf",
