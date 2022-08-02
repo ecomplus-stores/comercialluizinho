@@ -9,8 +9,8 @@
       "slides": [
         {
           "img": "/img/uploads/banners.png",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "link": "https://loja-comercialluizinho.netlify.app/search?term=",
+          "alt": "Comercial Luizinho",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2022-11-30T03:00:00.000Z",
           "mobile_img": "/img/uploads/banners-mobile.png"
