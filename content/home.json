@@ -25,16 +25,23 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<h1 style=\"text-align: center; font-size: 24px;\"> Supermercado em Vitória da Conquista </h1>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "62c733d3eb859112167bb68f:categories:Arroz:/arroz",
       "title": "Arroz"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62c73b08eb859112167bc6b5:categories:Leite condensado e creme de leite:/leite-condensado-e-creme-de-leite"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h1 style=\"text-align: center; font-size: 24px;\"> Supermercado em Vitória da Conquista </h1>"
     }
   ]
 }
