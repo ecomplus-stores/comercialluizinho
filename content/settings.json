@@ -1,7 +1,7 @@
 {
   "domain": "comercialluizinho.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#2b2b2b",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
