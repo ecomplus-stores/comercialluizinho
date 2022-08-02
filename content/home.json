@@ -43,9 +43,8 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "Supermercado em Vitória da Conquista",
-      "description": ""
+      "type": "custom-html",
+      "html": "<h1 style=\"text-align: center;\"> Supermercado em Vitória da Conquista </h1>"
     }
   ]
 }
