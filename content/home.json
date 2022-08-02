@@ -44,7 +44,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h1 style=\"text-align: center;\"> Supermercado em Vitória da Conquista </h1>"
+      "html": "<h1 style=\"text-align: center; font-size: 24px;\"> Supermercado em Vitória da Conquista </h1>"
     }
   ]
 }
