@@ -8,17 +8,17 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2022-08-09T20:22:35.038Z",
+          "end": "",
+          "img": "/img/uploads/frete-gratis-desktop.png"
+        },
+        {
           "img": "/img/uploads/vtex.png",
           "link": "https://loja-comercialluizinho.netlify.app/search?term=",
           "alt": "Comercial Luizinho",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2022-11-30T03:00:00.000Z",
           "mobile_img": "/img/uploads/vtex-mobile.png"
-        },
-        {
-          "start": "2022-08-09T20:22:35.038Z",
-          "end": "",
-          "img": "/img/uploads/frete-gratis-desktop.png"
         }
       ]
     },
