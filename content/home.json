@@ -64,6 +64,18 @@
           "img": "/img/uploads/banner_-_whatsapp.jpg"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-08-24T20:02:14.825Z",
+          "end": "2022-08-24T20:02:14.847Z",
+          "img": "/img/uploads/banner_-_nossa_historia.jpg"
+        }
+      ]
     }
   ]
 }
