@@ -15,29 +15,37 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/mercearia.png"
-        },
-        {
-          "img": "/img/uploads/matinais-e-sobremesas-copy.png"
-        },
-        {
-          "img": "/img/uploads/matinais-e-sobremesas.png"
-        },
-        {
-          "img": "/img/uploads/perfumaria-e-higiene.png"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "62e98b75eb85911216a27372:collections:Cesta Básica:/cesta-basica",
       "title": "Cesta Básica"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mercearia1.png",
+          "mobile_img": "/img/uploads/mercearia1.png",
+          "link": "https://www.comercialluizinho.com.br/mercearia"
+        },
+        {
+          "img": "/img/uploads/matinais-e-sobremesas3.png",
+          "mobile_img": "",
+          "link": "https://www.comercialluizinho.com.br/matinais-e-sobremesas"
+        },
+        {
+          "img": "/img/uploads/perfumaria-e-higiene1.png",
+          "mobile_img": "/img/uploads/perfumaria-e-higiene1.png",
+          "link": "https://www.comercialluizinho.com.br/perfumaria-e-higiene"
+        },
+        {
+          "img": "/img/uploads/cereais2.png",
+          "mobile_img": "/img/uploads/cereais2.png",
+          "link": "https://loja-comercialluizinho.netlify.app/cereais-e-farinaceos"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -47,8 +55,14 @@
       "collection_id": "62c6e6c5eb859112167ad80c:categories:Mercearia:/mercearia"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
       "type": "custom-html",
-      "html": "<style>\n.teste {\n  color: #000;\n  text-align: center;\n}\n@media screen and (max-width: 768px){\n#teste {\ntext-align: center;\n}  \n}\n  \n.frame{\n  width: 100%;\n  height: 360;\n  }\n  \n#caixa{\n  display: flex;\n  box-sizing: border-box;\n}\n  \n#imagem{\n  width: 100%;\n  margin-right: 10px;\n} \n  \n#coleta{\n  width: 100%;\n  margin-left: 10px;\n  padding-right: 10px;\n  padding-top: 15px;\n} \n  \n\n  \n#botao_saiba_mais{\n    background-color: #f37f45; \n    border: none;\n    color: white;\n    padding: 15px 32px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n    font-size: 16px;\n    border-radius: 5px;\n}\n  \n@media screen and (max-width: 768px) {\n  #caixa{\n    display: block;\n  } \n  \n  #map{\n    margin-top: 10px;\n    margin-right: 10px;\n  } \n  \n  #coleta p{\n    word-break: break-word;\n    overflow: hidden;\n  }\n}\n\n</style>\n\n<div id=\"caixa\">\n  <div id=\"map\">\n    <h3 class=\"teste\">Onde nos encontrar:</h3>\n    <iframe class =\"frame\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3856.5494952514455!2d-40.846340985739985!3d-14.850521104401597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7463bb1a73a8f8b%3A0x1e804f07b1ab6e60!2sComercial%20Luizinho!5e0!3m2!1spt-BR!2sbr!4v1661281921704!5m2!1spt-BR!2sbr\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n  <div>\n<div>"
+      "html": "<style>\n.teste {\n  color: #000;\n  text-align: center;\n}\n@media screen and (max-width: 768px){\n#teste {\ntext-align: center;\n}  \n}\n  \n.frame{\n  width: 1040px;\n  height: 360px;\n  }\n  \n#caixa{\n  display: flex;\n  box-sizing: border-box;\n}\n  \n\n  \n#coleta{\n  width: 100%;\n  margin-left: 10px;\n  padding-right: 10px;\n  padding-top: 15px;\n} \n  \n\n  \n#botao_saiba_mais{\n    background-color: #f37f45; \n    border: none;\n    color: white;\n    padding: 15px 32px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n    font-size: 16px;\n    border-radius: 5px;\n}\n  \n@media screen and (max-width: 768px) {\n  #caixa{\n    display: block;\n  } \n  \n  #map{\n    margin-top: 10px;\n    margin-right: 10px;\n  } \n  \n  #coleta p{\n    word-break: break-word;\n    overflow: hidden;\n  }\n}\n\n</style>\n\n<div id=\"caixa\">\n  <div id=\"map\">\n    <h3 class=\"teste\">Onde nos encontrar:</h3>\n    <iframe class =\"frame\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3856.5494952514455!2d-40.846340985739985!3d-14.850521104401597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7463bb1a73a8f8b%3A0x1e804f07b1ab6e60!2sComercial%20Luizinho!5e0!3m2!1spt-BR!2sbr!4v1661281921704!5m2!1spt-BR!2sbr\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n  <div>\n<div>"
     },
     {
       "type": "custom-html",
@@ -61,21 +75,15 @@
           "img": "/img/uploads/banner_-_instagram.jpg"
         },
         {
-          "img": "/img/uploads/banner_-_whatsapp.jpg"
+          "img": "/img/uploads/banner-whatsapp-luizinho.png",
+          "link": "https://api.whatsapp.com/send?phone=557734241954&text=Ol%C3%A1%2C%20Eu%20vim%20pelo%20o%20Site%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
         }
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2022-08-24T20:02:14.825Z",
-          "end": "2022-08-24T20:02:14.847Z",
-          "img": "/img/uploads/banner_-_nossa_historia.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_-_nossa_historia.jpg",
+      "link": "https://loja-comercialluizinho.netlify.app/pages/sobre-nos"
     }
   ]
 }
