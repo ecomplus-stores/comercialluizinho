@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.baa42ed849f95b8e1266035b05e08b6b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c4a4c8ce82768a6123e6cf8a921efd44.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.33c80e04424c9bca946be2d832ad5fe4.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Comercial Luizinho",
+  "short_name": "comercialluizinho",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "comercialluizinho",
+  "background_color": "#ffffff",
+  "theme_color": "#2b2b2b"
+}
