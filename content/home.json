@@ -31,7 +31,9 @@
           "link": "https://www.comercialluizinho.com.br/perfumaria-e-higiene"
         },
         {
-          "img": "/img/uploads/cereais2.png"
+          "img": "/img/uploads/cereais2.png",
+          "mobile_img": "/img/uploads/cereais2.png",
+          "link": "https://loja-comercialluizinho.netlify.app/cereais-e-farinaceos"
         }
       ]
     },
