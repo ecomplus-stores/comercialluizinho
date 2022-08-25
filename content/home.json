@@ -82,7 +82,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner_-_nossa_historia.jpg"
+      "img": "/img/uploads/banner_-_nossa_historia.jpg",
+      "link": "https://loja-comercialluizinho.netlify.app/pages/sobre-nos"
     }
   ]
 }
