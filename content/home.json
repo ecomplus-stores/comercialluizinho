@@ -15,6 +15,14 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62e98b75eb85911216a27372:collections:Cesta Básica:/cesta-basica",
+      "title": "Cesta Básica"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -44,15 +52,13 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62e98b75eb85911216a27372:collections:Cesta Básica:/cesta-basica",
-      "title": "Cesta Básica"
+      "collection_id": "62c6e6c5eb859112167ad80c:categories:Mercearia:/mercearia"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1,
-      "collection_id": "62c6e6c5eb859112167ad80c:categories:Mercearia:/mercearia"
+      "page": 1
     },
     {
       "type": "custom-html",
