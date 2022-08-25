@@ -69,7 +69,8 @@
           "img": "/img/uploads/banner_-_instagram.jpg"
         },
         {
-          "img": "/img/uploads/banner_-_whatsapp.jpg"
+          "img": "/img/uploads/banner-whatsapp-luizinho.png",
+          "link": "https://api.whatsapp.com/send?phone=557734241954&text=Ol%C3%A1%2C%20Eu%20vim%20pelo%20o%20Site%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
         }
       ]
     }
