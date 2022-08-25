@@ -18,13 +18,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/mercearia1.png"
+          "img": "/img/uploads/mercearia1.png",
+          "mobile_img": "/img/uploads/mercearia1.png"
         },
         {
-          "img": "/img/uploads/matinais-e-sobremesas-copy1.png"
+          "img": "/img/uploads/matinais-e-sobremesas-copy1.png",
+          "mobile_img": "/img/uploads/matinais-e-sobremesas.png"
         },
         {
-          "img": "/img/uploads/perfumaria-e-higiene1.png"
+          "img": "/img/uploads/perfumaria-e-higiene1.png",
+          "mobile_img": "/img/uploads/perfumaria-e-higiene1.png",
+          "link": "https://www.comercialluizinho.com.br/perfumaria-e-higiene"
         },
         {
           "img": "/img/uploads/cereais2.png"
