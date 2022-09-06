@@ -1,1 +1,23 @@
 // Add your custom CSS here.
+@media(min-width: 998px) {
+  .header__nav--full div:not(:first-child) .header__submenu {
+    margin-left: -240px;
+    grid-template-columns: repeat(auto-fit,minmax(20%,1fr));
+  }
+  .header__nav--full div:not(:first-child) .header__submenu::after {
+    left: 240px;
+  }
+#s-matinais-e-sobremesas {
+  margin-left: -540px;
+}
+#s-biscoito-e-bomboniere {
+  margin-left: -740px
+}
+#s-cereais-e-farinaceos {
+  margin-left: -350px
+}
+.header__submenu {
+    max-width: 100%;
+    width: 80%;
+}
+}
