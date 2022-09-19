@@ -90,6 +90,13 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner_-_nossa_historia.jpg",
       "link": "https://comercialluizinho.com.br/pages/sobre-nos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6322282673321213f8769e54:collections:Cesta Básica Pronta:/cesta-basica-pronta"
     }
   ]
 }
