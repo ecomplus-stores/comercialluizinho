@@ -67,6 +67,13 @@
       "page": 1
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6322282673321213f8769e54:collections:Cesta Básica Pronta:/cesta-basica-pronta"
+    },
+    {
       "type": "custom-html",
       "html": "<style>\n.teste {\n  color: #000;\n  text-align: center;\n}\n@media screen and (max-width: 768px){\n#teste {\ntext-align: center;\n}  \n}\n  \n.frame{\n  width: 1040px;\n  height: 360px;\n  }\n  \n#caixa{\n  display: flex;\n  box-sizing: border-box;\n}\n  \n\n  \n#coleta{\n  width: 100%;\n  margin-left: 10px;\n  padding-right: 10px;\n  padding-top: 15px;\n} \n  \n\n  \n#botao_saiba_mais{\n    background-color: #f37f45; \n    border: none;\n    color: white;\n    padding: 15px 32px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n    font-size: 16px;\n    border-radius: 5px;\n}\n  \n@media screen and (max-width: 768px) {\n  #caixa{\n    display: block;\n  } \n  \n  #map{\n    margin-top: 10px;\n    margin-right: 10px;\n  } \n  \n  #coleta p{\n    word-break: break-word;\n    overflow: hidden;\n  }\n}\n\n</style>\n\n<div id=\"caixa\">\n  <div id=\"map\">\n    <h3 class=\"teste\">Onde nos encontrar:</h3>\n    <iframe class =\"frame\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3856.5494952514455!2d-40.846340985739985!3d-14.850521104401597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7463bb1a73a8f8b%3A0x1e804f07b1ab6e60!2sComercial%20Luizinho!5e0!3m2!1spt-BR!2sbr!4v1661281921704!5m2!1spt-BR!2sbr\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>\n  <div>\n<div>"
     },
@@ -90,13 +97,6 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner_-_nossa_historia.jpg",
       "link": "https://comercialluizinho.com.br/pages/sobre-nos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6322282673321213f8769e54:collections:Cesta Básica Pronta:/cesta-basica-pronta"
     }
   ]
 }
