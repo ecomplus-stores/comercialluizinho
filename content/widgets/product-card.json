@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "ADICIONAR AO CARRINHO",
     "buy": "",
     "footer": ""
   }
