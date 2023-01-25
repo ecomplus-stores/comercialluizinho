@@ -19,6 +19,14 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Destaques",
+      "collection_id": "63d12630b9e5be07784588d3:collections:Destaques:/destaques"
     }
   ]
 }
