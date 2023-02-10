@@ -81,9 +81,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 3,
       "page": 1,
-      "collection_id": "6322282673321213f8769e54:collections:Cesta Básica Pronta:/cesta-basica-pronta"
+      "collection_id": "6322282673321213f8769e54:collections:Cesta Básica Pronta:/cesta-basica-pronta",
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
