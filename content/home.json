@@ -27,10 +27,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 20,
       "page": 1,
-      "collection_id": "63988b4873321213f8139c30:collections:Promoção:/promocao",
-      "title": "Promoção"
+      "collection_id": "63d92df6b9e5be07784d0735:collections:Utensílios:/utensilios",
+      "title": "Utensílios",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -39,15 +40,6 @@
       "page": 1,
       "collection_id": "63d12630b9e5be07784588d3:collections:Destaques:/destaques",
       "title": "Destaques",
-      "sort": "news"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 20,
-      "page": 1,
-      "collection_id": "63d92df6b9e5be07784d0735:collections:Utensílios:/utensilios",
-      "title": "Utensílios",
       "sort": "news"
     },
     {
