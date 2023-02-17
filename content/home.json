@@ -112,6 +112,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner_-_nossa_historia.jpg",
       "link": "https://comercialluizinho.com.br/pages/sobre-nos"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>\n<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"search\"></script>\n<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
     }
   ]
 }
