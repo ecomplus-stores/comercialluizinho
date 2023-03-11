@@ -21,9 +21,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63d12630b9e5be07784588d3:collections:Destaques:/destaques",
-      "title": "Sandálias",
-      "sort": "lowest_price"
+      "collection_id": "62e98b75eb85911216a27372:collections:Prepare sua Cesta Básica:/cesta-basica",
+      "sort": null
     },
     {
       "type": "collection-shelf",
@@ -38,8 +37,9 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "62e98b75eb85911216a27372:collections:Prepare sua Cesta Básica:/cesta-basica",
-      "sort": null
+      "collection_id": "63d12630b9e5be07784588d3:collections:Destaques:/destaques",
+      "title": "Sandálias",
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
