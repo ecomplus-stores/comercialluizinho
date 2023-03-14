@@ -13,6 +13,13 @@
           "img": "/img/uploads/todos-os-produtos-desktop-1-.jpg",
           "link": "https://comercialluizinho.com.br/search?term=",
           "mobile_img": "/img/uploads/todos-os-produtos-mobile-1-.jpg"
+        },
+        {
+          "start": "2023-03-13T03:00:00.000Z",
+          "end": "2023-05-31T03:00:00.000Z",
+          "mobile_img": "/img/uploads/whatsapp-image-2023-03-14-at-09.32.36.jpeg",
+          "link": "https://comercialluizinho.com.br/salgadinho-snacks",
+          "img": "/img/uploads/whatsapp-image-2023-03-14-at-09.44.16.jpeg"
         }
       ]
     },
