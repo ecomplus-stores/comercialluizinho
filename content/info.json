@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Entregamos para todo o Brasil"
+    "show": true,
+    "text": "Frete grátis a partir de R$199,00"
   },
   "installments": {
-    "show": false,
-    "text": "Parcele sem juros"
+    "show": true,
+    "text": "Parcela de até 3x para qualquer valor"
   },
   "exchange": {
     "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Diferentes promoções ao longo do ano"
   }
 }
