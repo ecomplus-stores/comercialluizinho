@@ -25,6 +25,15 @@
       "sort": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "Promoção",
+      "autoplay": 1000,
+      "collection_id": "63ef82f3f4167e223c92e43a:collections:Promoção:/promocao"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
