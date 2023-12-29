@@ -19,7 +19,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 20,
+      "limit": 24,
       "page": 1,
       "title": "Promoção",
       "autoplay": 0,
