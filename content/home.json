@@ -21,15 +21,6 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "title": "Promoção",
-      "autoplay": 0,
-      "collection_id": "63ef82f3f4167e223c92e43a:collections:Promoção:/promocao"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
       "collection_id": "62e98b75eb85911216a27372:collections:Prepare sua Cesta Básica:/cesta-basica",
       "sort": null
     },
