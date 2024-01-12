@@ -72,15 +72,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63d12630b9e5be07784588d3:collections:Sandálias:/destaques",
-      "title": "Calçados",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
       "collection_id": "62c6e6c5eb859112167ad80c:categories:Mercearia:/mercearia"
     },
     {
