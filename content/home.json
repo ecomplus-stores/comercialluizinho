@@ -19,6 +19,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63ef82f3f4167e223c92e43a:collections:Promoção:/promocao",
+      "title": "Promoção"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "62e98b75eb85911216a27372:collections:Prepare sua Cesta Básica:/cesta-basica",
@@ -107,14 +115,6 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>\n<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"search\"></script>\n<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "63ef82f3f4167e223c92e43a:collections:Promoção:/promocao",
-      "title": "Promoção"
     }
   ]
 }
