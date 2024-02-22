@@ -19,9 +19,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
-      "collection_id": null,
+      "collection_id": "63ef82f3f4167e223c92e43a:collections:Promoção:/promocao",
       "title": "Promoção"
     },
     {
